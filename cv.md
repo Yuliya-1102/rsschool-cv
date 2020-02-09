@@ -1,4 +1,4 @@
-# RESUME #
+# RESUME 
 
 **1** ***Yuliya Babitskaya***  
 **2** **Contact Info:** phone number *80295861886*, **email:** *bambina-kissi@yandex.ru*  
