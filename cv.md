@@ -7,4 +7,6 @@
 After completing this course, she was enrolled in a JavaScript course. Even earlier, when I was a marketer, I studied the Adobe Photoshop graphic editor, which allowed me to create the structure and web design of the site without the participation of the designer. Use **HTML and CSS** to make layouts and JavaScript to make the site more dynamic.  
  Created a website on the WordPress platform cafelavanda.by.  
 **5** **Education:** Belarusian state University of Economics, courses on **HTML, CSS, JS** in IT-школа Myfreedom and high technology park attended, **Adobe Photoshop and CorelDRAW** in high technology park attended.  
-**6** English *beginer*.
+**5** **Goal to achieve:** Became front-end developer.   
+**6** **Education:** Belarusian state University of Economics, courses on **HTML, CSS, JS** in IT-школа Myfreedom and high technology park attended, **Adobe Photoshop and CorelDRAW** in high technology park attended.  
+**7** English *beginer*.
